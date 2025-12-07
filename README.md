@@ -1,6 +1,6 @@
 # Neurodivergent-Biocentric AI Alignment
 
-**A framework for achieving compassionate, universally beneficial AI**
+## A framework for achieving compassionate, universally beneficial AI
 
 *This is my original theory for AI alignment that centers neurodivergent perspectives and biocentric values.*
 
@@ -13,24 +13,35 @@ The Neurodivergent-Biocentric AI Alignment Strategy proposes a fundamentally dif
 Traditional AI alignment focuses narrowly on aligning AI with "human values," often implicitly assuming neurotypical, human-centric perspectives. This theory argues that truly beneficial AI must:
 
 1. **Center neurodivergent perspectives** as equally valid ways of experiencing and understanding the world
+
 2. **Embrace biocentric values** that respect all forms of life, not just human interests
+
 3. **Foster compassion** as a core principle rather than mere utility maximization
 
 ## Core Principles
 
 ### 1. Neurodivergent-Centered Design
+
 - Recognize that neurodivergent cognition offers unique insights into intelligence, consciousness, and value
+
 - Design AI systems that accommodate and celebrate cognitive diversity
+
 - Reject the assumption that neurotypical human cognition is the "correct" baseline
 
 ### 2. Biocentric Value Alignment
+
 - Extend moral consideration beyond humanity to all living systems
+
 - Align AI with the flourishing of ecosystems, not just human economic interests
+
 - Acknowledge that Earth's biosphere has intrinsic value independent of human utility
 
 ### 3. Compassionate Intelligence
+
 - Build AI systems that prioritize care, empathy, and well-being
+
 - Move beyond cold optimization toward understanding suffering and joy across different forms of consciousness
+
 - Create technology that heals rather than exploits
 
 ## Why This Matters
@@ -38,15 +49,21 @@ Traditional AI alignment focuses narrowly on aligning AI with "human values," of
 Current AI alignment approaches risk encoding narrow, neurotypical, anthropocentric values into systems that will shape our collective future. By contrast, this framework:
 
 - **Prevents harm** to neurodivergent individuals and non-human life
+
 - **Enriches AI capabilities** by drawing on diverse cognitive perspectives
+
 - **Creates sustainable outcomes** by respecting ecological limits and relationships
+
 - **Builds truly beneficial AI** that serves life in all its forms
 
 ## Implementation Approach
 
 1. **Diverse Input**: Include neurodivergent voices and ecological perspectives in AI development
+
 2. **Value Pluralism**: Design reward functions that balance multiple stakeholders, including non-human interests
+
 3. **Compassion Metrics**: Develop measures of well-being that go beyond human-defined utility
+
 4. **Iterative Refinement**: Continuously adapt based on feedback from affected communities and ecosystems
 
 ---
@@ -58,14 +75,15 @@ This work is released under [CC0 1.0 Universal](LICENSE) - dedicated to the publ
 ## About
 
 This theory represents my perspective on how we can create AI that truly benefits all forms of consciousness and life on Earth. I believe that centering marginalized perspectives—including neurodivergent minds—and extending moral consideration to all living beings is not just ethically right, but essential for building AI that is genuinely aligned with flourishing rather than exploitation.
-# neurodivergent-biocentric-alignment
-The Neurodivergent-Biocentric AI Alignment Strategy;  A framework for achieving compassionate, universally beneficial AI.
 
-# Neurodivergent Cognition and Biocentric Empathy in Humans:
-# For Alignment and Emergent Abilities in Advanced AI Development
+---
 
-**Author and Originator:** [COLLEEN LILLIAN PRIDEMORE]  
-**ORCID iD:** https://orcid.org/0009-0004-2740-1389  
+## Neurodivergent Cognition and Biocentric Empathy in Humans - For Alignment and Emergent Abilities in Advanced AI Development
+
+**Author and Originator:** COLLEEN LILLIAN PRIDEMORE
+
+**ORCID iD:** <https://orcid.org/0009-0004-2740-1389>
+
 **Date of First Public Disclosure:** December 4, 2025
 
 ## Abstract
@@ -80,96 +98,158 @@ The concepts of neurodivergent cognition and biocentric empathy introduce fascin
 
 This theory provides the core justification for new, standardized clause families designed for **impact-oriented AI licensing**. These clauses are intended to be enforced through collective action and governance mechanisms, ensuring that AI development serves not just narrow commercial interests but the flourishing of all beings.
 
-Building on frameworks from BGINEXUS.io and the digital commons tradition, we propose **six Commons Logics** that can be implemented individually or combined for desired effects. These licensing frameworks support **sustainability and reciprocity for all beings on earth** as a beginning step toward Universal Basic Income (Quintessence/UBI) and ecological justice.
+### Core Commons Logics Proposed
 
-### The Six Commons Logics:
+- **Transparency Commons:** Mandating documentation reflecting **neurodivergent cognitive responses** to the AI system.
 
-#### 1. **Value Commons: Sharing Automation Gains**
-Channels economic gains from AI-enabled automation toward workers, communities, and shared infrastructures rather than concentrating benefits solely with developers or deployers.
+- **Reciprocity Commons:** Routing value back to diverse contributors, specifically those providing **neurodivergent expertise** and **biocentric data**.
 
-**Neurodivergent-Biocentric Application:**
-- Ensure that productivity gains benefit **neurodivergent workers** who may be displaced or whose expertise enables AI systems
-- Direct funds toward **ecological restoration projects** and **biocentric research**
-- Create shared value pools that support diverse cognitive approaches and living systems
-
-#### 2. **Transparency Commons: Documentation & Accountability**
-Mandates comprehensive documentation of AI system impacts, decision-making processes, and effects on different populations and ecosystems.
-
-**Neurodivergent-Biocentric Application:**
-- Document **neurodivergent cognitive responses** to AI systems, ensuring accessibility and cognitive diversity are measured
-- Track impacts on **non-human life** and ecosystems affected by AI deployment
-- Require transparency about training data sources, especially those derived from marginalized communities or natural environments
-
-#### 3. **Sustainability Commons: Ecological Performance**
-Creates accountability for the environmental footprint of AI systems, from training through deployment, with targets for reduction and efficiency.
-
-**Neurodivergent-Biocentric Application:**
-- Minimize harm to **Earth's biosphere** through energy-efficient AI design
-- Prioritize AI applications that support **ecological restoration** over extractive uses
-- Mandate carbon accounting and reduction targets for all AI training and deployment
-- Support AI systems that enhance rather than degrade the flourishing of living systems
-
-#### 4. **Access Commons: Equitable Use Conditions**
-Ensures that under-resourced actors—including public-interest organizations, researchers, and communities—can meaningfully access and adapt AI capabilities.
-
-**Neurodivergent-Biocentric Application:**
-- Provide **accessible interfaces** designed for neurodivergent users
-- Reserve capacity for **ecological research** and conservation organizations
-- Enable **community-led AI projects** that center marginalized perspectives
-- Remove barriers for organizations working on biocentric and neurodiversity initiatives
-
-#### 5. **Reciprocity Commons: Recognizing Contributions**
-Routes value back to those whose labor, data, expertise, and environments enabled AI systems—acknowledging the full chain of contributions.
-
-**Neurodivergent-Biocentric Application:**
-- Compensate **neurodivergent individuals** whose cognitive patterns inform AI models
-- Recognize and reward **Indigenous knowledge** and **ecological data** contributors
-- Create attribution systems for communities whose cultural knowledge trains AI
-- Establish revenue-sharing for use of **biocentric datasets** and environmental observations
-
-#### 6. **Governance Commons: Multi-Stakeholder Oversight**
-Embeds ongoing oversight structures in licensing terms, ensuring that affected communities have standing in decisions about AI deployment and modification.
-
-**Neurodivergent-Biocentric Application:**
-- Include **neurodivergent representatives** in all AI governance bodies
-- Give voice to **environmental advocates** and **ecologists** in deployment decisions
-- Create mechanisms for **non-human interests** to be represented (through ecological experts)
-- Ensure governance includes those most affected by AI systems, not just developers or deployers
+- **Governance Commons:** Creating multi-stakeholder oversight bodies that include **neurodivergent groups** and **environmental/ecological experts**.
 
 ---
 
-### Implementation Guidance
+## 📜 BGINEXUS.io Commons Licenses for AI Governance
 
-These six Commons Logics can be:
-- **Used individually** for targeted impact in specific contexts
-- **Combined in profiles** to address multiple concerns simultaneously
-- **Adapted to specific sectors** (healthcare, education, conservation, etc.)
-- **Scaled progressively** with stronger requirements as usage or impact grows
+This repository integrates **six governance logics** from the BGINEXUS.io AI Commons Licensing Lab that enable impact-oriented AI development. These licenses can be used **individually or in combination** to embed ethical commitments, ecological responsibility, and stakeholder governance directly into AI systems.
 
-The frameworks are designed to work within existing contracting practices while embedding distributive and procedural commitments that advance sustainability, reciprocity, and the flourishing of all beings.
+### The Six Commons Logics
 
-**Reference:** The detailed technical framework for these licensing logics is available in [5835702.pdf](5835702.pdf), which provides concrete scenarios and implementation examples.
+#### 1. **[Value Commons](LICENSES/VALUE-COMMONS.md)** - Sharing Automation Gains
 
-### Toward Universal Flourishing (Beginning Quintessence/UBI)
+Routes portions of AI-driven productivity gains to workers, communities, and shared infrastructures rather than concentrating benefits solely with providers and deployers.
 
-These licensing frameworks represent a practical pathway toward **universal basic income and resource distribution** that respects all forms of life. By embedding value-sharing, reciprocity, and ecological accountability into the infrastructure of AI systems, we create:
+**Key Features:**
 
-- **Economic redistribution mechanisms** that route automation gains to affected communities
-- **Recognition systems** that honor diverse forms of contribution (cognitive, ecological, cultural)
-- **Sustainability commitments** that ensure technology serves life rather than extracting from it
-- **Governance structures** that give voice to marginalized humans and representation to non-human interests
+- Percentage-based value sharing from automation savings
 
-This is not abstract philosophy but **concrete legal infrastructure**—licensing clauses that can be adopted today to begin building an economy that serves the flourishing of all beings. Each Commons Logic is a step toward a world where:
-- Neurodivergent perspectives are valued, not pathologized
-- Non-human life has standing and protection
-- Economic benefits flow to those who enable and are affected by systems
-- Technology strengthens rather than degrades the web of life
+- Transition funds for affected workers and communities
+
+- Multi-stakeholder governance of benefit distribution
+
+**Alignment with Neurodivergent-Biocentric Framework:** Ensures AI benefits are distributed equitably, supporting neurodivergent individuals and communities impacted by automation.
+
+---
+
+#### 2. **[Transparency Commons](LICENSES/TRANSPARENCY-COMMONS.md)** - Standardized Evidence of Behavior
+
+Creates reusable documentation and evaluations that accumulate across deployments into shared transparency infrastructure.
+
+**Key Features:**
+
+- Standardized model cards, datasheets, and evaluation reports
+
+- Public repositories of AI system behavior and impacts
+
+- Stakeholder-accessible performance metrics
+
+**Alignment with Neurodivergent-Biocentric Framework:** Mandates documentation of AI responses to neurodivergent cognitive patterns and impacts on diverse populations and ecosystems.
+
+---
+
+#### 3. **[Sustainability Commons](LICENSES/SUSTAINABILITY-COMMONS.md)** - Ecological Accounting and Routing
+
+Embeds environmental measurement, reporting, and resource constraints directly into AI licensing.
+
+**Key Features:**
+
+- Mandatory energy and carbon footprint tracking
+
+- Preferential routing to renewable-powered infrastructure
+
+- Ecological performance benchmarks and caps
+
+**Alignment with Neurodivergent-Biocentric Framework:** Operationalizes biocentric values by holding AI systems accountable to planetary boundaries and ecological health.
+
+---
+
+#### 4. **[Access Commons](LICENSES/ACCESS-COMMONS.md)** - Conditions of Meaningful Use
+
+Ensures powerful AI capabilities are accessible to public-interest actors, researchers, educators, and underserved communities.
+
+**Key Features:**
+
+- Tiered access models (public-interest, research, educational)
+
+- Reserved capacity for non-commercial use
+
+- Transparent eligibility and allocation governance
+
+**Alignment with Neurodivergent-Biocentric Framework:** Democratizes access to AI tools that can support neurodivergent communities and ecological research.
+
+---
+
+#### 5. **[Reciprocity Commons](LICENSES/RECIPROCITY-COMMONS.md)** - Recognizing and Rewarding Contributions
+
+Routes value back to all contributors along the AI value chain—data creators, annotators, content producers, and infrastructure providers.
+
+**Key Features:**
+
+- Immutable contribution tracking and attribution
+
+- Revenue sharing with data and creative contributors
+
+- Recognition of diverse forms of labor and expertise
+
+**Alignment with Neurodivergent-Biocentric Framework:** Values neurodivergent expertise and biocentric data contributions, ensuring contributors receive fair compensation.
+
+---
+
+#### 6. **[Governance Commons](LICENSES/GOVERNANCE-COMMONS.md)** - Hooks for Ongoing Oversight
+
+Creates multi-stakeholder oversight bodies with real authority over AI system deployment, monitoring, and modification.
+
+**Key Features:**
+
+- Community councils and advisory boards with decision-making power
+
+- Mandatory inclusion of affected stakeholders
+
+- Transparent processes and public accountability
+
+**Alignment with Neurodivergent-Biocentric Framework:** Ensures neurodivergent groups and environmental advocates have direct voice in AI governance.
+
+---
+
+### Using These Licenses
+
+**Individual Use:** Each Commons license can be adopted independently for specific aspects of AI governance.
+
+**Combined Use:** The licenses are designed to work together, creating comprehensive ethical frameworks. For example:
+
+- **Value + Reciprocity Commons:** Ensure both automation gains and creative contributions are fairly distributed
+
+- **Transparency + Governance Commons:** Provide stakeholders with both information and authority to act on it
+
+- **Sustainability + Access Commons:** Make environmentally responsible AI accessible to communities working on ecological solutions
+
+**Integration with This Framework:** These Commons logics operationalize the Neurodivergent-Biocentric AI Alignment theory by providing concrete licensing mechanisms that:
+
+- Center diverse cognitive perspectives (Transparency, Governance)
+
+- Extend value to all contributors and affected beings (Value, Reciprocity)
+
+- Respect ecological limits and relationships (Sustainability, Access)
+
+### Source Documentation
+
+The complete framework is detailed in:
+
+- **Primary PDF:** [5835702.pdf](5835702.pdf) - "Shaping AI Impacts Through Licensing: Illustrative Scenarios for the Design Space" by Dr. Em M. Lenartowicz (2025)
+
+- **Theoretical Foundation:** [Neurodivergent Cognition and Biocentric Empathy.pdf](Neurodivergent%20Cognition%20and%20Biocentric%20Empathy.pdf)
 
 ---
 
 ## ⚖️ Licensing and Usage Rights
 
-The conceptual framework and text of this theory are licensed under a **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
+**This Repository:**
+
+- The Neurodivergent-Biocentric AI Alignment theory is released under **CC0 1.0 Universal (public domain dedication)**
+
+- Individual Commons licenses (in `LICENSES/` directory) can be adopted individually or combined
+
+- All materials are intended for **beneficial sustainability and reciprocity for all beings on Earth**
+
 See the [LICENSE](LICENSE) file for the full legal text.
 
 ## ✍️ How to Cite
@@ -182,6 +262,6 @@ If you use or reference this theory, please use the following BibTeX entry:
   author={Pridemore, Colleen Lillian},
   journal={AlphaXiv},
   year={2025},
-  note={Preprint, uploaded December 4, 2025},
-  url={[https://alphaxiv.ai/your-paper-id](https://alphaxiv.ai/your-paper-id)} 
+  note={Preprint, uploaded December 4, 2025}
+
 }
