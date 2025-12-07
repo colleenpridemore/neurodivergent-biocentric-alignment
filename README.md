@@ -262,7 +262,6 @@ If you use or reference this theory, please use the following BibTeX entry:
   author={Pridemore, Colleen Lillian},
   journal={AlphaXiv},
   year={2025},
-  note={Preprint, uploaded December 4, 2025},
-  url={[https://alphaxiv.ai/your-paper-id](https://alphaxiv.ai/your-paper-id)} 
+  note={Preprint, uploaded December 4, 2025}
 
 }
