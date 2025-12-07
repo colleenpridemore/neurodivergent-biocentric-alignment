@@ -244,7 +244,7 @@ The complete framework is detailed in:
 
 **This Repository:**
 
-- The Neurodivergent-Biocentric AI Alignment theory is licensed under **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**
+- The Neurodivergent-Biocentric AI Alignment theory is released under **CC0 1.0 Universal (public domain dedication)**
 
 - Individual Commons licenses (in `LICENSES/` directory) can be adopted individually or combined
 
