@@ -96,7 +96,7 @@ The concepts of neurodivergent cognition and biocentric empathy introduce fascin
 
 ## 🌐 Application: Commons Logics Framework
 
-This theory provides the core justification for new, standardized clause families designed for **impact-oriented AI licensing**. These clauses are intended to be enforced through collective action and governance mechanisms.
+This theory provides the core justification for new, standardized clause families designed for **impact-oriented AI licensing**. These clauses are intended to be enforced through collective action and governance mechanisms, ensuring that AI development serves not just narrow commercial interests but the flourishing of all beings.
 
 ### Core Commons Logics Proposed
 
