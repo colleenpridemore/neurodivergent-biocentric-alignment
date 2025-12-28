@@ -70,10 +70,10 @@ Document why adding more compute (vertical scaling) fails to address the fundame
 - Theoretical limits of current architectures
 
 **Acceptance Criteria:**
-- [ ] Mathematical proof or strong evidence of O(n²) behavior
-- [ ] Analysis of real-world vertical scaling attempts and outcomes
-- [ ] Cost models showing diminishing returns
-- [ ] Publication-ready research document
+- [ ] Mathematical proof of O(n²) behavior OR empirical measurements showing quadratic growth with statistical significance (p < 0.01)
+- [ ] Analysis of at least 3 real-world vertical scaling attempts with quantitative outcomes
+- [ ] Cost models showing diminishing returns with specific ROI calculations
+- [ ] Publication-ready research document with peer review from AI systems researchers
 
 **Alignment with Framework:**
 - Sustainability Commons: Understanding resource inefficiency

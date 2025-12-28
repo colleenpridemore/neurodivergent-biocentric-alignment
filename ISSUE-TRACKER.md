@@ -254,30 +254,38 @@ Start
 
 ---
 
-## Team Assignments (To Be Filled)
+## Team Assignments
 
-### Research Team
-- Lead Researcher: TBD
-- AI Theory: TBD
-- Neurodivergent Research: TBD
-- Biocentric Ethics: TBD
+**Note:** Team roles will be filled through open recruitment process outlined in Issue X.1 (Neurodivergent Input and Testing). Priority is given to establishing core governance and ethics team in first 1-2 months.
 
-### Engineering Team
-- Lead Engineer: TBD
-- Architecture: TBD
-- Implementation: TBD
-- Testing & Validation: TBD
+### Research Team (Target: Months 1-3)
+- Lead Researcher: **Open - Recruiting**
+- AI Theory: **Open - Recruiting**
+- Neurodivergent Research: **Priority - Recruiting immediately** (Issue X.1)
+- Biocentric Ethics: **Priority - Recruiting immediately** (Issue X.2)
 
-### Governance Team
-- Ethics Board Chair: TBD
-- Community Liaison: TBD
-- Legal/Licensing: TBD
-- Safety Officer: TBD
+### Engineering Team (Target: Months 2-4)
+- Lead Engineer: **Open - Post Phase 1 completion**
+- Architecture: **Open - Required for Issue 2.1**
+- Implementation: **Open - Recruiting**
+- Testing & Validation: **Open - Recruiting**
 
-### Documentation Team
-- Technical Writer: TBD
-- Community Education: TBD
-- Accessibility Specialist: TBD
+### Governance Team (Target: Months 0-2, Critical)
+- Ethics Board Chair: **Priority - Recruiting immediately** (Issue X.5)
+- Community Liaison: **Priority - Recruiting immediately**
+- Legal/Licensing: **Open - Required for Issue X.3**
+- Safety Officer: **Priority - Recruiting immediately** (Issue X.5)
+
+### Documentation Team (Target: Ongoing)
+- Technical Writer: **Open - Recruiting**
+- Community Education: **Open - Recruiting**
+- Accessibility Specialist: **Priority - Required for Issue X.1**
+
+**Recruitment Process:**
+1. Post positions on relevant platforms with accessibility accommodations
+2. Prioritize neurodivergent and diverse candidates
+3. Ensure fair compensation aligned with Reciprocity Commons
+4. Create inclusive interview and selection processes
 
 ---
 
@@ -323,17 +331,21 @@ Start
 
 ## Communication Channels
 
-### Internal
-- GitHub repository: [Link TBD]
-- Technical discussions: [Platform TBD]
-- Team chat: [Platform TBD]
-- Document collaboration: [Platform TBD]
+### Internal (To be established in Month 1)
+- GitHub repository: **This repository** - Primary issue tracking and code
+- Technical discussions: **GitHub Discussions** (recommended) or Discord server
+- Team chat: **Slack** or **Discord** - To be decided by team consensus
+- Document collaboration: **GitHub** + **HackMD** or **Google Docs** for collaborative editing
 
-### External
-- Public website: [Link TBD]
-- Community forum: [Platform TBD]
-- Newsletter: [Link TBD]
-- Social media: [Handles TBD]
+### External (To be established in Months 1-2)
+- Public website: **GitHub Pages** from this repository (initial) or dedicated domain
+- Community forum: **GitHub Discussions** (initial) - accessible and integrated
+- Newsletter: **Substack** or **Buttondown** - For major updates
+- Social media: **To be determined** - Based on community preferences and accessibility
+
+**Priority:** GitHub-based communication will be established first as it's already available and accessible. Additional platforms will be added based on community needs and governance decisions (Issue X.3, X.5).
+
+**Accessibility Commitment:** All communication channels must meet WCAG 2.1 AA standards and support neurodivergent accessibility needs (screen readers, clear navigation, asynchronous options).
 
 ---
 
