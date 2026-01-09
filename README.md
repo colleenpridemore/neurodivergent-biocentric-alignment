@@ -68,9 +68,9 @@ Current AI alignment approaches risk encoding narrow, neurotypical, anthropocent
 
 ---
 
-## License
+## No Code License Required
 
-This work is released under [CC0 1.0 Universal](LICENSE) - dedicated to the public domain.
+This repository contains theoretical and conceptual work, not software code. Therefore, **this repository does not require and does not have a code license**. The theoretical content and documentation are released under [CC0 1.0 Universal](LICENSE) - dedicated to the public domain.
 
 ## About
 
@@ -280,17 +280,19 @@ The complete framework is detailed in:
 
 ---
 
-## ⚖️ Licensing and Usage Rights
+## ⚖️ Content Rights and Usage
 
 **This Repository:**
 
-- The Neurodivergent-Biocentric AI Alignment theory is released under **CC0 1.0 Universal (public domain dedication)**
+- This repository contains theoretical and conceptual materials, not software code. **No code license is required or applicable.**
 
-- Individual Commons licenses (in `LICENSES/` directory) can be adopted individually or combined
+- The Neurodivergent-Biocentric AI Alignment theory and all documentation are released under **CC0 1.0 Universal (public domain dedication)**
+
+- Individual Commons licenses (in `LICENSES/` directory) are licensing frameworks that can be adopted for AI governance purposes
 
 - All materials are intended for **beneficial sustainability and reciprocity for all beings on Earth**
 
-See the [LICENSE](LICENSE) file for the full legal text.
+See the [LICENSE](LICENSE) file for the full legal text of the CC0 1.0 Universal dedication.
 
 ## ✍️ How to Cite
 
