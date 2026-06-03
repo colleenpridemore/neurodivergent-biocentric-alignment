@@ -4,6 +4,8 @@
 
 *This is my original theory for AI alignment that centers neurodivergent perspectives and biocentric values.*
 
+👉 **[Contributing Guide](CONTRIBUTING.md)** - How to get involved
+
 ---
 
 ## Overview
