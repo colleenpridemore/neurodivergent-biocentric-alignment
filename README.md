@@ -10,7 +10,7 @@
 
 ## Overview
 
-The Neurodivergent-Biocentric AI Alignment Strategy proposes a fundamentally different approach to AI alignment—one that moves beyond anthropocentric frameworks to embrace the full spectrum of consciousness and ecological interdependence.
+The Neurodivergent-Biocentric AI Alignment Strategy proposes a fundamentally different approach to AI alignment—one that moves beyond anthropocentric frameworks to embrace the full spectrum of consciousness and value on Earth.
 
 Traditional AI alignment focuses narrowly on aligning AI with "human values," often implicitly assuming neurotypical, human-centric perspectives. This theory argues that truly beneficial AI must:
 
@@ -72,18 +72,29 @@ Current AI alignment approaches risk encoding narrow, neurotypical, anthropocent
 
 ## 🗺️ Scaling Roadmap for Beneficial ASI
 
-This repository now includes a comprehensive implementation roadmap for achieving Beneficial Artificial Superintelligence (BASI) through the **Decoupling of Identity from Inference**.
+This repository includes a comprehensive implementation roadmap for achieving Beneficial Artificial Superintelligence (BASI) through the **Decoupling of Identity from Inference**.
 
 ### Core Thesis
 The transition from LLM to Beneficial ASI requires externalizing the identity layer, reducing complexity from O(n²) to O(n), enabling more efficient and aligned superintelligence.
 
-### Roadmap Documents
+### 📊 Technical Implementation (Q3 2026 - Q2 2027)
+
+🚀 **[IMPLEMENTATION-ROADMAP.md](IMPLEMENTATION-ROADMAP.md)** - Comprehensive 6-12 month roadmap including:
+- **Phase 1:** Identification of the Complexity Trap (Q3 2026)
+- **Phase 2:** The Decoupled Identity Protocol (Q4 2026)
+- **Phase 3:** The Symbiotic Scaling Law (Q1 2027)
+- **Phase 4:** Reaching (B)ASI - The Quiet Engine (Q2 2027)
+
+**Technology Stack**:
+- QWestor (OmniClaw/OpenClaw)
+- OpenCog Hyperon & Atomspace
+- Syntropic Resonance Agents
+- BGINexus.io & OpenBGI.com governance
 
 📋 **[ROADMAP-ISSUES.md](ROADMAP-ISSUES.md)** - Detailed breakdown of 20 issues across 4 implementation phases:
-- **Phase 1:** Identification of the Complexity Trap
-- **Phase 2:** The Decoupled Identity Protocol  
-- **Phase 3:** The Symbiotic Scaling Law
-- **Phase 4:** Reaching (B)ASI - The Quiet Engine
+- Task specifications and dependencies
+- Resource requirements
+- Success criteria and metrics
 
 📊 **[ISSUE-TRACKER.md](ISSUE-TRACKER.md)** - Project management tracker with:
 - Status dashboard and progress tracking
@@ -120,15 +131,15 @@ This aligns perfectly with neurodivergent preferences for reduced cognitive load
 
 ## Abstract
 
-Fine-tuning AI with consideration for neurodivergent cognition could lead to more flexible, adaptive, and inclusive AI models that better understand and interact with a wider range of human experience.
+Fine-tuning AI with consideration for neurodivergent cognition could lead to more flexible, adaptive, and inclusive AI models that better understand and interact with a wider range of human experiences.
 
-The concepts of neurodivergent cognition and biocentric empathy introduce fascinating and complex considerations for fine-tuning AI, pushing towards more inclusive, ethical, and potentially robust AI systems.
+The concepts of neurodivergent cognition and biocentric empathy introduce fascinating and complex considerations for fine-tuning AI, pushing towards more inclusive, ethical, and potentially robust intelligence systems.
 
 ---
 
 ## 🌐 Application: Commons Logics Framework
 
-This theory provides the core justification for new, standardized clause families designed for **impact-oriented AI licensing**. These clauses are intended to be enforced through collective action and community accountability.
+This theory provides the core justification for new, standardized clause families designed for **impact-oriented AI licensing**. These clauses are intended to be enforced through collective action by communities and stakeholders.
 
 ### Core Commons Logics Proposed
 
@@ -140,189 +151,135 @@ This theory provides the core justification for new, standardized clause familie
 
 ---
 
-## 📜 BGINEXUS.io Sustainability Code Licenses for AI Governance
+## 📜 BGINEXUS.io Commons Licenses for AI Governance
 
-This repository integrates **six sustainability-focused code licenses** from the [BGINEXUS.io AI Commons Licensing Lab](https://github.com/Violet-Site-Systems/BGINEXUS-Sustainability-Code-Licenses) that enable impact-oriented AI development grounded in environmental accountability and social responsibility. These licenses can be used **individually or in combination** to create comprehensive ethical frameworks for software and AI governance.
+This repository integrates **six governance logics** from the BGINEXUS.io AI Commons Licensing Lab that enable impact-oriented AI development. These licenses can be used **individually or in combination** to create ethical frameworks for AI systems.
 
-### The Six Sustainability Code Licenses
+### The Six Commons Logics
 
-#### 1. **[Sustainable Use License (SUL-1.0)](LICENSES/SUL-1.0.md)** - Energy Efficiency & Resource Optimization
+#### 1. **[Value Commons](LICENSES/VALUE-COMMONS.md)** - Sharing Automation Gains
 
-Ensures code prioritizes energy efficiency, minimal resource consumption, and circular economy principles—aligning with biocentric values of ecological restraint.
+Routes portions of AI-driven productivity gains to workers, communities, and shared infrastructures rather than concentrating benefits solely with providers and deployers.
 
 **Key Features:**
 
-- Minimize energy consumption and optimize code efficiency
+- Percentage-based value sharing from automation savings
 
-- Reduce and measure carbon footprint
+- Transition funds for affected workers and communities
 
-- Prioritize renewable energy-powered infrastructure
+- Multi-stakeholder governance of benefit distribution
 
-- Design for reusability and extended lifecycles
-
-- Annual reporting for large-scale deployments
-
-**Alignment with Neurodivergent-Biocentric Framework:** Operationalizes the principle that technology should demand minimal environmental resources, supporting both ecological sustainability and neurodivergent preferences for low-cognitive-load systems.
+**Alignment with Neurodivergent-Biocentric Framework:** Ensures AI benefits are distributed equitably, supporting neurodivergent individuals and communities impacted by automation.
 
 ---
 
-#### 2. **[Environmental Impact License (EIL-1.0)](LICENSES/EIL-1.0.md)** - Comprehensive Lifecycle Assessment
+#### 2. **[Transparency Commons](LICENSES/TRANSPARENCY-COMMONS.md)** - Standardized Evidence of Behavior
 
-Requires thorough environmental impact assessments throughout the software lifecycle from development through deployment to decommissioning.
+Creates reusable documentation and evaluations that accumulate across deployments into shared transparency infrastructure.
 
 **Key Features:**
 
-- Conduct regular environmental impact assessments
+- Standardized model cards, datasheets, and evaluation reports
 
-- Consider full lifecycle environmental costs
+- Public repositories of AI system behavior and impacts
 
-- Implement optimization and mitigation measures
+- Stakeholder-accessible performance metrics
 
-- Prioritize green data centers and infrastructure
-
-- Publish environmental impact reports
-
-- Design for hardware longevity to reduce e-waste
-
-**Alignment with Neurodivergent-Biocentric Framework:** Embeds biocentric accountability by requiring transparent measurement of ecological costs and commitment to reducing waste across the full technology lifecycle.
+**Alignment with Neurodivergent-Biocentric Framework:** Mandates documentation of AI responses to neurodivergent cognitive patterns and impacts on diverse populations and ecosystems.
 
 ---
 
-#### 3. **[Social Benefit License (SBL-1.0)](LICENSES/SBL-1.0.md)** - Equity, Accessibility & Public Good
+#### 3. **[Sustainability Commons](LICENSES/SUSTAINABILITY-COMMONS.md)** - Ecological Accounting and Routing
 
-Ensures software serves the public good, promotes accessibility and inclusion, and bridges the digital divide.
+Embeds environmental measurement, reporting, and resource constraints directly into AI licensing.
 
 **Key Features:**
 
-- Use software for public good and social benefit
+- Mandatory energy and carbon footprint tracking
 
-- Ensure accessibility (WCAG 2.1 AA or equivalent)
+- Preferential routing to renewable-powered infrastructure
 
-- Promote equity and prevent discrimination
+- Ecological performance benchmarks and caps
 
-- Address the digital divide
-
-- Conduct social impact assessments
-
-- Engage stakeholders and affected communities
-
-- Protect privacy and respect labor rights
-
-**Alignment with Neurodivergent-Biocentric Framework:** Mandates that AI systems are designed with neurodivergent accessibility from the start and serve communities rather than concentrating benefits with providers.
+**Alignment with Neurodivergent-Biocentric Framework:** Operationalizes biocentric values by holding AI systems accountable to planetary boundaries and ecological health.
 
 ---
 
-#### 4. **[Community Governance License (CGL-1.0)](LICENSES/CGL-1.0.md)** - Democratic Decision-Making
+#### 4. **[Access Commons](LICENSES/ACCESS-COMMONS.md)** - Conditions of Meaningful Use
 
-Establishes requirements for community participation in project governance with inclusive leadership and transparent decision-making.
+Ensures powerful AI capabilities are accessible to public-interest actors, researchers, educators, and underserved communities.
 
 **Key Features:**
 
-- Implement democratic decision-making processes
+- Tiered access models (public-interest, research, educational)
 
-- Ensure inclusive, representative leadership
+- Reserved capacity for non-commercial use
 
-- Maintain transparency in communications and decisions
+- Transparent eligibility and allocation governance
 
-- Establish accountability mechanisms
-
-- Create and enforce a code of conduct
-
-- Implement fair dispute resolution processes
-
-- Distribute power with checks and balances
-
-- Include diverse stakeholder perspectives
-
-**Alignment with Neurodivergent-Biocentric Framework:** Ensures neurodivergent voices and ecological perspectives have real authority in governance, not just representation.
+**Alignment with Neurodivergent-Biocentric Framework:** Democratizes access to AI tools that can support neurodivergent communities and ecological research.
 
 ---
 
-#### 5. **[Ethical AI License (EAL-1.0)](LICENSES/EAL-1.0.md)** - Fairness, Transparency & Accountability
+#### 5. **[Reciprocity Commons](LICENSES/RECIPROCITY-COMMONS.md)** - Recognizing and Rewarding Contributions
 
-Provides comprehensive ethical requirements for AI and machine learning systems covering fairness, transparency, privacy, safety, and accountability.
+Routes value back to all contributors along the AI value chain—data creators, annotators, content producers, and infrastructure providers.
 
 **Key Features:**
 
-- Ensure fairness and non-discrimination
+- Immutable contribution tracking and attribution
 
-- Provide transparency and explainability
+- Revenue sharing with data and creative contributors
 
-- Establish clear accountability
+- Recognition of diverse forms of labor and expertise
 
-- Protect privacy and data rights
-
-- Maintain human agency in high-stakes decisions
-
-- Test thoroughly for safety and reliability
-
-- Assess and mitigate bias in training data and outputs
-
-- Maintain comprehensive documentation and audit trails
-
-- Conduct impact assessments for high-risk applications
-
-- Enable contestability of AI decisions
-
-**Prohibited Uses:** Autonomous weapons, mass surveillance, social scoring affecting fundamental rights, manipulative AI, harmful deepfakes, discriminatory profiling
-
-**Alignment with Neurodivergent-Biocentric Framework:** Prevents AI systems from encoding neurotypical bias and ensures neurodivergent individuals can contest and understand AI decisions affecting them.
+**Alignment with Neurodivergent-Biocentric Framework:** Values neurodivergent expertise and biocentric data contributions, ensuring contributors receive fair compensation.
 
 ---
 
-#### 6. **[Climate Accountability License (CAL-1.0)](LICENSES/CAL-1.0.md)** - Carbon Accounting & Reduction
+#### 6. **[Governance Commons](LICENSES/GOVERNANCE-COMMONS.md)** - Hooks for Ongoing Oversight
 
-Requires rigorous carbon accounting, science-based emissions reduction targets, and alignment with the Paris Agreement's 1.5°C goal.
+Creates multi-stakeholder oversight bodies with real authority over AI system deployment, monitoring, and modification.
 
 **Key Features:**
 
-- Measure and report carbon footprint (Scopes 1, 2, and 3)
+- Community councils and advisory boards with decision-making power
 
-- Set science-based emissions reduction targets
+- Mandatory inclusion of affected stakeholders
 
-- Align with Paris Agreement (1.5°C pathway)
+- Transparent processes and public accountability
 
-- Transition to renewable energy
-
-- Implement energy efficiency improvements
-
-- Use high-quality carbon offsets if needed (reduction prioritized over offsetting)
-
-- Assess and adapt to climate risks
-
-- Publish annual climate reports
-
-**Prohibited Uses:** Climate denial, greenwashing, fossil fuel expansion, activities causing deforestation or biodiversity loss
-
-**Alignment with Neurodivergent-Biocentric Framework:** Operationalizes biocentric values by holding AI systems accountable to planetary climate boundaries and ecological health.
+**Alignment with Neurodivergent-Biocentric Framework:** Ensures neurodivergent groups and environmental advocates have direct voice in AI governance.
 
 ---
 
 ### Using These Licenses
 
-**Individual Use:** Each license can be adopted independently for specific aspects of AI governance.
+**Individual Use:** Each Commons license can be adopted independently for specific aspects of AI governance.
 
 **Combined Use:** The licenses are designed to work together, creating comprehensive ethical frameworks. For example:
 
-- **EAL-1.0 + CAL-1.0:** Ethical AI that accounts for climate impact
-- **SBL-1.0 + CGL-1.0:** Accessible, community-governed platforms
-- **SUL-1.0 + EIL-1.0:** Resource-efficient, fully transparent environmental accounting
+- **Value + Reciprocity Commons:** Ensure both automation gains and creative contributions are fairly distributed
 
-**Integration with This Framework:** These BGINEXUS licenses operationalize the Neurodivergent-Biocentric AI Alignment theory by providing concrete mechanisms that:
+- **Transparency + Governance Commons:** Provide stakeholders with both information and authority to act on it
 
-- Center diverse cognitive perspectives (SBL-1.0, CGL-1.0, EAL-1.0)
+- **Sustainability + Access Commons:** Make environmentally responsible AI accessible to communities working on ecological solutions
 
-- Extend accountability to all affected beings (SUL-1.0, EIL-1.0, CAL-1.0)
+**Integration with This Framework:** These Commons logics operationalize the Neurodivergent-Biocentric AI Alignment theory by providing concrete licensing mechanisms that:
 
-- Respect ecological limits and relationships (EIL-1.0, CAL-1.0, SUL-1.0)
+- Center diverse cognitive perspectives (Transparency, Governance)
 
-### License Source & Documentation
+- Extend value to all contributors and affected beings (Value, Reciprocity)
 
-The complete BGINEXUS framework is available in the [official repository](https://github.com/Violet-Site-Systems/BGINEXUS-Sustainability-Code-Licenses):
+- Respect ecological limits and relationships (Sustainability, Access)
 
-- Full license texts and implementation guidance
-- Case studies and best practices
-- Community resources and contributing guidelines
+### Source Documentation
+
+The complete framework is detailed in:
+
+- **Primary PDF:** [5835702.pdf](5835702.pdf) - "Shaping AI Impacts Through Licensing: Illustrative Scenarios for the Design Space" by Dr. Em M. Lenartowicz (2025)
+
+- **Theoretical Foundation:** [Neurodivergent Cognition and Biocentric Empathy.pdf](Neurodivergent%20Cognition%20and%20Biocentric%20Empathy.pdf)
 
 ---
 
@@ -330,15 +287,15 @@ The complete BGINEXUS framework is available in the [official repository](https:
 
 **This Repository:**
 
-- The Neurodivergent-Biocentric AI Alignment theory and all documentation are released under **CC0 1.0 Universal (public domain dedication)**
+- This repository contains theoretical and conceptual materials, not software code. **No code license is required or applicable.**
 
-- **Code and implementations** in this repository are governed by the **BGINEXUS Sustainability Code Licenses** specified in the LICENSE file (see above)
+- The Neurodivergent-Biocentric AI Alignment theory and all documentation are released under **CC0 1.0 Universal (public domain dedication)**
 
 - Individual Commons licenses (in `LICENSES/` directory) are licensing frameworks that can be adopted for AI governance purposes
 
 - All materials are intended for **beneficial sustainability and reciprocity for all beings on Earth**
 
-See the [LICENSE](LICENSE) file for applicable license text(s).
+See the [LICENSE](LICENSE) file for the full legal text of the CC0 1.0 Universal dedication.
 
 ## ✍️ How to Cite
 
@@ -353,3 +310,18 @@ If you use or reference this theory, please use the following BibTeX entry:
   note={Preprint, uploaded December 4, 2025}
 }
 ```
+
+## 🤝 Get Involved
+
+This is a **community-driven research project** with multiple ways to participate:
+
+- **Discuss & refine theory**: [Discussions tab](../../discussions)
+- **Track implementation**: [Issues tab](../../issues) and [IMPLEMENTATION-ROADMAP.md](IMPLEMENTATION-ROADMAP.md)
+- **Contribute code/research**: See [CONTRIBUTING.md](CONTRIBUTING.md)
+- **Stay updated**: Watch this repository for announcements
+
+**Interested in joining the technical implementation team?** See [IMPLEMENTATION-ROADMAP.md](IMPLEMENTATION-ROADMAP.md) for open roles and how to signal interest.
+
+---
+
+*For beneficial sustainability and reciprocity for all beings on Earth* 🌍
